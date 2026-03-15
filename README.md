@@ -1,18 +1,15 @@
- # Abdul Malik
+# Abdul Malik
  
-#### Computer Science Student
+## Computer Science Student
 
-Learning:
+### Learning:
 
     JavaScript
-
     Node.js
-
     Backend Development
 
 
-Projects:
+### Projects:
 
     Todo API
-
     Node.js backend apps
