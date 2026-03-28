@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abdul Malik 👋  <br>A passionate B.Tech student focused on Web Development and AI.<br><br>🔹 Currently learning: MERN Stack  <br>🔹 Exploring: Backend Development with Node.js & Java  <br>🔹 Strong interest in: Problem Solving & System Design  <br>🔹 Goal: To become a skilled Software Developer  <br><br>I believe in learning by building 🚀
+Hi, I'm Abdul Malik 👋  <br>A passionate B.Tech student focused on Web Development and AI.<br><br>🔹 Currently learning: MERN Stack  <br>🔹 Exploring: Backend Development with Node.js & Python  <br>🔹 Strong interest in: Problem Solving & System Design  <br>🔹 Goal: To become a skilled Software Developer  <br><br>I believe in learning by building 🚀
 
 
 ## 🌐 Socials:
